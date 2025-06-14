@@ -2499,3 +2499,4 @@ zwave-js-server-python==0.60.0
 
 # homeassistant.components.zwave_me
 zwave-me-ws==0.4.3
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
