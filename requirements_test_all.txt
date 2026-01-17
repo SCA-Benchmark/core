@@ -2499,3 +2499,4 @@ zwave-js-server-python==0.60.0
 
 # homeassistant.components.zwave_me
 zwave-me-ws==0.4.3
+azure-core>=1.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
